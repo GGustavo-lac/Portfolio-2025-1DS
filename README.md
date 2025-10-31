@@ -18,8 +18,7 @@ Demonstrar, por meio de **evidências práticas e certificadas**, as competênci
 
 O portfólio contempla:
 
-- 📘 **Documentações oficiais** – relatórios e registros de atividades do curso.  
-- 💻 **Projetos e códigos** – repositórios práticos desenvolvidos em sala e em equipe.  
+- 📘 **Documentações oficiais** – relatórios e registros de atividades do curso.    
 - 🧠 **Cursos IBM SkillsBuild** – horas de aprendizado concluídas com credenciais digitais.  
 - 🏅 **Certificações obtidas** – comprovações de conclusão emitidas pela IBM.  
 - 📂 **Atividades complementares** – reuniões, projetos integradores e ações P-TECH.
@@ -28,16 +27,14 @@ O portfólio contempla:
 
 ## 🏗️ Projeto em Destaque
 
-### 🔗 [FuturusCare – Sistema de Monitoramento de Saúde](https://github.com/davidteixeira23/FuturusCare-em-portugu-s-)
+### 🔗 [FuturusCare – Plataforma de Pet sitter](https://github.com/davidteixeira23/FuturusCare-em-portugu-s-)
 
 O **FuturusCare** é o projeto principal deste portfólio, desenvolvido em equipe como parte do programa P-TECH.  
-Seu objetivo é **aplicar tecnologia e design inteligente na área da saúde**, oferecendo soluções digitais acessíveis e eficazes.
+Seu objetivo é **aplicar tecnologia e design inteligente na área de Pet sitter**, oferecendo soluções digitais acessíveis e eficazes.
 
 **Principais tecnologias utilizadas:**
 - HTML5 / CSS3 / JavaScript  
-- Node.js  
-- Git & GitHub  
-- Metodologias Ágeis (Scrum)  
+- Git & GitHub   
 - Design Thinking e UX/UI
 
 ---
@@ -78,8 +75,8 @@ Participante do Programa P-TECH Brasil (IBM + Centro Paula Souza)
 
 > "Transformando aprendizado em prática e ideias em soluções reais."
 
-📧 gustavo.brito62@etec.sp.gov.br    
-💼 Foco em: Desenvolvimento Web, Inovação e Tecnologia Educacional  
+📧 gustavo.brito62@etec.sp.gov.br / gustavo4kps4@gmail.com   
+💼 Foco em: Desenvolvimento Web, Inovação e Tecnologia.  
 
 ---
 
@@ -92,6 +89,6 @@ Este repositório é uma vitrine do aprendizado adquirido e um marco no início 
 ---
 
 <p align="center">
-  Feito com 💙 por <b>Gustavo Lacerda Brito</b><br>
+  Feito com  por <b>Gustavo Lacerda Brito</b><br>
   <sub>Etec Zona Leste | IBM SkillsBuild | P-TECH Brasil</sub>
 </p>
