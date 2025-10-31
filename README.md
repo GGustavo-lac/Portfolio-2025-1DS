@@ -1,2 +1,2 @@
-# Portfolio 2025 1º Ds
+# Portfolio 2025 1º DS
 Portfolio 2025 do 1º ano de Desenvolvimento de sistemas (AMS), Etec e seu projeto P-tech, com todas as documentações, atividades e horas estabelecidas pela empresa IBM, com objetivo de registrar e comprovar o feito: <h3>Repositorio do projeto:</h3> https://github.com/davidteixeira23/FuturusCare-em-portugu-s-
