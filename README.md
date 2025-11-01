@@ -3,4 +3,4 @@
 
 💼 Portfolio 2025 for the 1st year of Systems Development (AMS), Etec and its P-tech project, with all documentation, activities and hours established by IBM, with the objective of registering and proving the achievement.
 
-<h3>Repositorio do projeto/ Project repository:</h3> https://github.com/davidteixeira23/FuturusCare-em-portugu-s-
+<h3>Repositorio do projeto/ Project repository:</h3> https://github.com/SrDerik/FuturusCare
